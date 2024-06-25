@@ -1,4 +1,4 @@
-package org.example.baekjoon.bfs;
+package org.example.baekjoon.DFS;
 
 /*
 * https://www.acmicpc.net/problem/11724
