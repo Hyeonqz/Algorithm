@@ -13,7 +13,6 @@ public class B11726 {
 		System.out.println(result);
 
 	}
-
 	private static int count(int a) {
 		int[] dp = new int[1001];
 		int divideNum = 10007;
