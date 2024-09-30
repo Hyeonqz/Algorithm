@@ -42,10 +42,10 @@ public class Day13 {
 
 		for (int i = 0; i < str_list.length; i++) {
 			switch (str_list[i]) {
-				case "l" -> {
+				case "l" : {
 					return Arrays.copyOfRange(str_list, 0, i);
 				}
-				case "r" -> {
+				case "r" : {
 					return Arrays.copyOfRange(str_list, i + 1, str_list.length);
 				}
 			}
