@@ -2,7 +2,7 @@
 > 코딩테스트 붙을 때 까지 모든 알고리즘 문제를 기록하는 Repository 
 
 * 모든 백준, 프로그래머스 문제들은 '백준 허브' 플러그인을 통해 자동으로 commit,push 하며 관리를 하고 있습니다.
-  * <a href="https://nomoreft.tistory.com/73">백준허브 설정 참조</a> 글 을 보고 따라 적용했습니다.
+  * <a href="https://nomoreft.tistory.com/73">백준허브 설정 참조</a>
 
 #### [문제 분류 방법]
 - solved = 문제 이해 O + 로직 이해 O
