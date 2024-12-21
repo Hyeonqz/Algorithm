@@ -9,11 +9,12 @@ public class B1010_partialSolved {
 	static int N,M;
 	public static void main (String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
 
 		int T = Integer.parseInt(st.nextToken()); // 테스트 케이스 개수
 
 		for (int i = 0; i < T ; i++) {
-			StringTokenizer st = new StringTokenizer(br.readLine());
+			st = new StringTokenizer(br.readLine());
 			N = Integer.parseInt(st.nextToken());
 			M = Integer.parseInt(st.nextToken());
 

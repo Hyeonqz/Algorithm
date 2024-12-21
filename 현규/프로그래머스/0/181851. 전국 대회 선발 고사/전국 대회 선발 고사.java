@@ -1,8 +1,7 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 
-class Solution {
+class Solutions {
     public int solution(int[] rank, boolean[] attendance) {
 		var list =  new ArrayList<Integer>();
 
