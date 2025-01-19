@@ -1,4 +1,4 @@
-package hkjin.dp;
+package hkjin.동적계획법;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
